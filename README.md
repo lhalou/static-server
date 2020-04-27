@@ -13,5 +13,5 @@ node-dev server.js 8888
 
 # 关于server.js和server1.js
 
-server.js是对server1.js更好的封装
+server.js是对server1.js更好的封装.在server.js中，不需要每次添加新的路由，因为对路径做了一个封装。
 
